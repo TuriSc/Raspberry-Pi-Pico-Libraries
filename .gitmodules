@@ -1,0 +1,36 @@
+[submodule "Sequencer Synth"]
+	path = Sequencer Synth
+	url = https://github.com/TuriSc/Pico-Sequencer-Synth
+[submodule "I2S Audio Mixer"]
+	path = I2S Audio Mixer
+	url = https://github.com/TuriSc/RP2040-I2S-Audio-Mixer
+[submodule "pico_synth_ex"]
+	path = pico_synth_ex
+	url = https://github.com/TuriSc/RP2040-pico_synth_ex
+[submodule "PWM DMA Audio"]
+	path = PWM DMA Audio
+	url = https://github.com/TuriSc/RP2040-PWM-DMA-Audio
+[submodule "PWM Tone"]
+	path = PWM Tone
+	url = https://github.com/TuriSc/RP2040-PWM-Tone
+[submodule "DFPlayer"]
+	path = DFPlayer
+	url = https://github.com/TuriSc/RP2040-DFPlayer
+[submodule "Keypad Matrix"]
+	path = Keypad Matrix
+	url = https://github.com/TuriSc/RP2040-Keypad-Matrix
+[submodule "Rotary Encoder"]
+	path = Rotary Encoder
+	url = https://github.com/TuriSc/RP2040-Rotary-Encoder
+[submodule "Button"]
+	path = Button
+	url = https://github.com/TuriSc/RP2040-Button
+[submodule "Moving Average"]
+	path = Moving Average
+	url = https://github.com/TuriSc/RP2040-Moving-Average
+[submodule "Battery Check"]
+	path = Battery Check
+	url = https://github.com/TuriSc/RP2040-Battery-Check
+[submodule "WS2812B Animation"]
+	path = WS2812B Animation
+	url = https://github.com/TuriSc/RP2040-WS2812B-Animation
