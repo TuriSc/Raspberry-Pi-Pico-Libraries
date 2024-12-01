@@ -34,3 +34,6 @@
 [submodule "WS2812B Animation"]
 	path = WS2812B Animation
 	url = https://github.com/TuriSc/RP2040-WS2812B-Animation
+[submodule "Linear Hall Effect Sensor"]
+	path = Linear Hall Effect Sensor
+	url = https://github.com/TuriSc/Pico-Linear-Hall-Effect-Sensor
