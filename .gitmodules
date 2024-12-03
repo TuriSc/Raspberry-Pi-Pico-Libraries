@@ -37,3 +37,6 @@
 [submodule "Linear Hall Effect Sensor"]
 	path = Linear Hall Effect Sensor
 	url = https://github.com/TuriSc/Pico-Linear-Hall-Effect-Sensor
+[submodule "MUX74HC4067"]
+	path = MUX74HC4067
+	url = https://github.com/TuriSc/Pico-MUX74HC4067

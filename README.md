@@ -38,6 +38,9 @@ Button debounce library. It generates interrupts after listening to GPIO_IRQ eve
 [Linear Hall Effect](Linear%20Hall%20Effect%20Sensor)  
 Read values from Linear Hall Effect Sensors like OH49E, with calibration and smoothing. Multiple sensors can be managed simultaneously.
 
+[MUX74HC4067](MUX74HC4067)  
+Read and write multiple signals with 74HC4067 multiplexer/demultiplexer. C port of [nlamprian/MUX74HC4067](https://github.com/nlamprian/MUX74HC4067/).
+
 ### Utilities
 
 [Moving Average](Moving%20Average)  
