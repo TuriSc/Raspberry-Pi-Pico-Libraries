@@ -41,6 +41,12 @@ Read values from Linear Hall Effect Sensors like OH49E, with calibration and smo
 [MUX74HC4067](MUX74HC4067)  
 Read and write multiple signals with 74HC4067 multiplexer/demultiplexer. C port of [nlamprian/MUX74HC4067](https://github.com/nlamprian/MUX74HC4067/).
 
+[WS2812B Animation](WS2812B%20Animation)  
+Display animated effects on WS2812B LED strips and matrices, with custom charset and i18n font, and procedural effects.
+
+[SSD1306](ssd1306)  
+Not my OLED display library, but I implemented display rotation. Fork of [daschr/pico-ssd1306](https://github.com/daschr/pico-ssd1306).
+
 ### Utilities
 
 [Moving Average](Moving%20Average)  
@@ -49,6 +55,3 @@ Implementation of the moving average filter. Forked from [mhtb32/EfficientMoving
 [Battery Check](Battery%20Check)  
 Measures the voltage level on the VSYS pin. Useful for low-battery detection. 
 
-### Various
-[WS2812B Animation](WS2812B%20Animation)  
-Display animated effects on WS2812B LED strips and matrices, with custom charset and i18n font, and procedural effects.

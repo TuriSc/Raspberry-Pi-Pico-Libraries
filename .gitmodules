@@ -40,3 +40,6 @@
 [submodule "MUX74HC4067"]
 	path = MUX74HC4067
 	url = https://github.com/TuriSc/Pico-MUX74HC4067
+[submodule "ssd1306"]
+	path = ssd1306
+	url = https://github.com/TuriSc/pico-ssd1306
