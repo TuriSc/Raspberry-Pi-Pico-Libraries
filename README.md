@@ -35,6 +35,9 @@ Efficiently read rotary encoder signals.
 [Button](Button)  
 Button debounce library. It generates interrupts after listening to GPIO_IRQ events. It allows to define multiple buttons simultaneously. Forked from [jkroso/pico-button.c](https://github.com/jkroso/pico-button.c).
 
+[Menu System](Menu%20System)  
+Create hierarchical menu systems with action items and submenus, support for long menus, and customizable draw callback.
+
 [Linear Hall Effect](Linear%20Hall%20Effect%20Sensor)  
 Read values from Linear Hall Effect Sensors like OH49E, with calibration and smoothing. Multiple sensors can be managed simultaneously.
 

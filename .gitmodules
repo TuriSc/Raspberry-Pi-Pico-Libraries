@@ -43,3 +43,6 @@
 [submodule "ssd1306"]
 	path = ssd1306
 	url = https://github.com/TuriSc/pico-ssd1306
+[submodule "Menu System"]
+	path = Menu System
+	url = https://github.com/TuriSc/Pico-Menu-System
